@@ -1,3 +1,5 @@
 jest.config.js
 README.md
 .idea
+src
+tsconfig.json
