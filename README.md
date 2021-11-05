@@ -9,8 +9,7 @@ A simple UUID V4 generator using Node crypto randomBytes.
 ## Usage
 
 ```javascript
-import { uuidV4 } from "node-uuid-v4";
+import { uuidV4 } from "@daz.is/uuid-v4";
 
 const uuid = uuidV4();
 ```
-
