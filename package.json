@@ -1,6 +1,6 @@
 {
-  "name": "uuid-v4",
-  "version": "1.0.0",
+  "name": "@daz.is/uuid-v4",
+  "version": "1.0.1",
   "description": "Generate UUID v4 using Node crypto",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

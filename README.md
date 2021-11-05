@@ -4,7 +4,7 @@ A simple UUID V4 generator using Node crypto randomBytes.
 
 ## Install 
 
-    npm i node-uuid-v4
+    npm i @daz.is/uuid-v4
 
 ## Usage
 
